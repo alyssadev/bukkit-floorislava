@@ -1,0 +1,4 @@
+name: FloorIsLava
+main: me.ads.FloorIsLava
+version: 1.0
+api-version: "1.15"
